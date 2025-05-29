@@ -1,9 +1,9 @@
 <h1>ZMovie</h1>
-<hr><p>MovieMate is a lightweight movie browsing app built with Kotlin, Retrofit, and Jetpack Compose. This was my first project using feature-based modularization, where each major feature (e.g., Home, Details, Favorites) was separated into its own module. This structure improved code clarity, made feature testing easier, and reduced build time. The app integrates the TMDB API to display trending movies and series and allows users to view details and save favorites. This project helped me understand the benefits of scalable architecture and how to organize code for long-term maintenance and growth.</p><h2>General Information</h2>
-<hr><ul>
+<p>MovieMate is a lightweight movie browsing app built with Kotlin, Retrofit, and Jetpack Compose. This was my first project using feature-based modularization, where each major feature (e.g., Home, Details, Favorites) was separated into its own module. This structure improved code clarity, made feature testing easier, and reduced build time. The app integrates the TMDB API to display trending movies and series and allows users to view details and save favorites. This project helped me understand the benefits of scalable architecture and how to organize code for long-term maintenance and growth.</p><h2>General Information</h2>
+<ul>
 <li>it still under developing</li>
 </ul><h2>Technologies Used</h2>
-<hr><ul>
+<ul>
 <li>Kotlin – Primary programming language for Android development</li>
 </ul><ul>
 <li>Jetpack Compose – Modern declarative UI toolkit for building native Android interfaces</li>
